@@ -1,0 +1,8 @@
+.title {
+  width: 100%;
+  text-align: center;
+  font-size: 3rem;
+  background-image: url("https://media.contentapi.ea.com/content/dam/eacom/popcap/images/2017/08/ea-hero-m-popcap-pvz2-xl.jpg.adapt.crop3x5.320w.jpg");
+  color: rgb(174, 62, 42);
+  margin-bottom: 50px;
+}
